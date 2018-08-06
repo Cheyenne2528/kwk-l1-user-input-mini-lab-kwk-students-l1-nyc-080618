@@ -10,7 +10,7 @@ stay = gets.chomp.capitalize
 #don't forget to Capitilize the input
 puts "I would like to stay at #{stay}"
 
-
+puts 
 
 
 
