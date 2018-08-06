@@ -1,1 +1,2 @@
-city = 
+name = "cheyenne"
+name = gets.chomp
