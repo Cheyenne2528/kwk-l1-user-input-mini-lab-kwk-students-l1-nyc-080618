@@ -10,6 +10,7 @@ stay = gets.chomp.capitalize
 #don't forget to Capitilize the input
 
 puts "Where do you want to eat?"
+eat = gets.chomp
 
 vist = gets.chomp
 puts "I would like to go "
