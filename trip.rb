@@ -12,9 +12,8 @@ stay = gets.chomp.capitalize
 puts "Where do you want to eat?"
 eat = gets.chomp
 
-vist = gets.chomp
-puts "I would like to go "
-
+puts "How many nights do you want to stay?"
+nights = gets.chomp
 
 # Lastly, puts it all back by interpolating these values in a string.
 
