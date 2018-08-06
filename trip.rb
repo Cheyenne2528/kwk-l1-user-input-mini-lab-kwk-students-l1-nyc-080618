@@ -10,7 +10,7 @@ stay = gets.chomp.capitalize
 #don't forget to Capitilize the input
 puts "I would like to stay at #{stay}"
 
-# Do the same thing with `eats` and one last time with `nights`, capturing their text input and storing them to the respective local variable
+
 
 
 
