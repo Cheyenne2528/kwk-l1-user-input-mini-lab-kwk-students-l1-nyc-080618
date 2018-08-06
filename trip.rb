@@ -8,10 +8,11 @@ puts "Let's plan your trip! Where would you like to stay ?"
 stay = gets.chomp.capitalize  
 
 #don't forget to Capitilize the input
-puts "I would like to stay at #{stay}"
 
-puts 
+puts "Where do you want to eat?"
 
+vist = gets.chomp
+puts "I would like to go "
 
 
 # Lastly, puts it all back by interpolating these values in a string.
